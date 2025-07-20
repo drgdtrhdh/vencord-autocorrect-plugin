@@ -1,0 +1,2 @@
+# vencord-autocorrect-plugin
+ddddd
